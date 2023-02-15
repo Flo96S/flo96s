@@ -5,7 +5,7 @@
 ### Programming
 | C# | HTML/CSS/JS | C | C++ | Python | Java | SQL | Rust |
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg">|<img width=100 max-width=100 src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">| Currently learning |
+  |<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg">|<imgstyle="width: 100px; min-width: 100px; max-width: 100px;"  src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<imgstyle="width: 100px; min-width: 100px; max-width: 100px;"  src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg">|<imgstyle="width: 100px; min-width: 100px; max-width: 100px;"  src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">| Currently learning |
 
 ### Tools
 | Affinity Suit | Office | Figma | DaVinci Resolve | Cinema4D | Substance Painter | Unreal Engine |
