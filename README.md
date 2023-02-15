@@ -3,14 +3,51 @@
 
 ## Skills
 ### Programming
-| C# | HTML/CSS/JS | C | C++ | Python | Java | SQL | Rust |
-  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg">|<img style="width: 100px; min-width: 100px; max-width: 100px;"  src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">| Currently learning |
+<table>
+  <tr>
+    <th>C#</th>
+    <th>HTML/CSS/JS</th>
+    <th>C</th>
+    <th>C++</th>
+    <th>Python</th>
+    <th>Java</th>
+    <th>SQL</th>
+    <th>Rust</th>
+  </tr>
+  <tr>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td>learning...</td>
+ </tr>
+</table>
 
 ### Tools
-| Affinity Suit | Office | Figma | DaVinci Resolve | Cinema4D | Substance Painter | Unreal Engine |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg">|<img width=100 src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg">
+<table>
+  <tr>
+    <th>Affinity Suit</th>
+    <th>Office</th>
+    <th>Figma</th>
+    <th>DaVinci Resolve</th>
+    <th>Cinema4D</th>
+    <th>Substance Painter</th>
+    <th>Unreal Engine</th>
+ </tr>
+  <tr>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+ </tr>
+</table>
+
 ## Other
 
 - 😄 Pronouns: he/him
