@@ -16,12 +16,12 @@
   </tr>
   <tr>
     <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/3stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg"></td>
     <td>learning...</td>
  </tr>
 </table>
@@ -38,13 +38,13 @@
     <th>Unreal Engine</th>
  </tr>
   <tr>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
-    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4_5stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/4stars.svg"></td>
+    <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/3_5stars.svg"></td>
  </tr>
 </table>
 
