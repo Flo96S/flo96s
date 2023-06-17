@@ -12,7 +12,7 @@
     <th>Python</th>
     <th>Java</th>
     <th>SQL</th>
-    <th>Rust</th>
+    <th>Go</th>
   </tr>
   <tr>
     <td><img style="width: 100px;" src="https://github.com/Flo96S/flo96s/blob/main/5stars.svg"></td>
