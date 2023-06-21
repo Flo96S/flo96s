@@ -52,5 +52,5 @@
 
 - 😄 Pronouns: he/him
 - 💬 Ask me about anything, I'll try my best to answer you.
-- 🌱 I’m currently learning rust.
+- 🌱 I’m currently learning golang.
 - 📫 How to reach me: `me at florian-s dot de`
