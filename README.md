@@ -1,7 +1,6 @@
 ![Hello](https://user-images.githubusercontent.com/35099715/218798947-363e4f9f-3dd0-4edd-a9f9-7c7ce2f46b71.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flo96s&layout=donut&size_weight=0.20&count_weight=0.80&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flo96s&layout=donut-vertical&size_weight=0.20&count_weight=0.80&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills
 ### Programming
 <table>
